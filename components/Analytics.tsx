@@ -4,7 +4,7 @@
 
 import Script from "next/script";
 
-const GA_ID = "G-XXXXXXXXXX"; // ← replace this
+const GA_ID = "G-W60WRRTT7X"; // ← replace this
 
 export default function Analytics() {
   if (process.env.NODE_ENV !== "production") return null;
